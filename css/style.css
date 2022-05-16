@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+}
+
+.install-images img {
+    max-height: 150px;
+    padding: 0 24px;
+}
+
